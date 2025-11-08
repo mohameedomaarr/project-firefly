@@ -2,7 +2,7 @@
 
 Welcome to **Project Firefly**! This is a highly scalable and resilient web application built with a modern Java stack and deployed on Amazon Web Services (AWS). The architecture is designed for high availability, fault tolerance, and a seamless user experience, leveraging a suite of powerful technologies for everything from data persistence to asynchronous messaging.
 
-The live application can be viewed here: **[https://d2cg06jgk8bhdt.cloudfront.net/welcome](https://d2cg06jgk8bhdt.cloudfront.net/welcome )**
+The live application can be viewed here: **[https://d2cg06jgk8bhdt.cloudfront.net/](https://d2cg06jgk8bhdt.cloudfront.net/ )**
 
 ## Table of Contents
 
